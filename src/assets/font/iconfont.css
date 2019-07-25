@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1564035753334'); /* IE9 */
+  src: url('iconfont.eot?t=1564035753334#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPoAAsAAAAAB/gAAAOaAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqDNIMrATYCJAMQCwoABCAFhG0HRhsbB8guBspNOzzFjZvnsvkx//916n36Mn2FQSUKMJdQkiEkH1lxmkwFoq088Qy0AdEEuPUcE+Tuvn7NQ464BQElFAglNUAA2PAS+6xd3v+5nN5dU3B+O8tlrEVz0A0+6mVh0QQKaIxhbTrRAkqQG8YuaImngQBciulo1LX0wE5kTiIAbY9rKewZN7GBTOyItWJlgi4s7GWjcAvA9uD79JGVHRBYKsyZHbNWRcWL//qQrQiswAIPgWa6IAC2DmCA6QARaFWGl2FRbjqGq78R5QHs7AT4Ev9lw9eHgQDUHsVst/7yAAFhQA0mMQgA5CATuzCNg4MAXzbgQPD1IQEMgA9itQ8urANwH/OSdrIRsB5MIRRJUY6wMKtr0xNTuPKpcPNj4YpHDs6c3j2PH898+nT2kyezaPm+gOWnEjb1PCq58ig6JzxvwsTNE55UXZr1hNPmmY8fR9HIpphZPXtOkG3lfil0895o64GoPTZHz7QEibP3K9IoRqJGPmYEjx/Po0ZpbCPSRq7toHPighSonNExsbwxdb4rdYGviM3zJWQBNn9m2qNGUoZpDs1V/I3URJ6D5kIWlOEmQtzn51vX5Derw9/S/O2plXELf4iD457FP1NVCp9iq1k5UBHfnuJP+6YO5ze3ogMZq3AM/T1rPej527CGoECQFPRDasDXLumvQ31+5N/Df8+OqPhfZN3ALl5kG6y2wq/awDL0A9XC6NGjo4IVKVCtMGpFexF//C/M8hleABDAdrLagJ6NZRUAAL3CzT87Cn+z3pcsDi35Z5eerOH54r7TOBggdvQAv0fTWfMfNbhM1HSmR0xF76j1i0TVbABAAHAc8PdKQIQ3U1ijOxMBYhedgMAmGRi78ajImw4WkhywsisHbpr69ZJIBobSAWCqtQBImDMgCHEZmDC3UZH3GixifAOrsBhwsyJyR8nEPLza0JaamiovG5E9ij7otH0mD8ldmmuof6mR1gWiWZrh8yTlzLSMfLFeG9SMKeb4/K4s03TKTkMfkOvAeVp/vy57Db1XU8w0t2l6i9LTnVVvSlP0AXDVDJqlTBqVbJkRMg+FbpDTq2/ihc930bgM6beU0cCoys+iMfh4updlSpPRAa03D3Zi3Mo1Pn4uWUwmJ5mTQTdAVgeCmn4rp5N5q4f10ihMadwDMl5F0lElZ1dz2vLWgTfcAcCZB4ghECORLLCeIX3UrTnOnzbD1Hymze1xs7oxAgAAAA==') format('woff2'),
+  url('iconfont.woff?t=1564035753334') format('woff'),
+  url('iconfont.ttf?t=1564035753334') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1564035753334#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zuozhe:before {
+  content: "\e688";
+}
+
+.icon-icon-test:before {
+  content: "\e619";
+}
+
+.icon-history:before {
+  content: "\e7d3";
+}
+
